@@ -1,0 +1,48 @@
+body {
+    background-color: #FFE4C4;
+    margin: 40px;
+}
+section {
+    background-color: #FFF8DC;
+    padding: 20px;
+}
+h1, footer {
+    text-align: center;
+    color: green;
+}
+footer {
+    margin-top: 20px;
+}
+a :link, a :visited {
+    color: #000;
+}
+b {
+    color: #800000;
+}
+strong {
+    color: #F89;
+}
+em {
+    color: #00FF00;
+}
+i {
+    color: #00CCCC;
+}
+q {
+    color: #FF0000;
+}
+code {
+    color: #CC0066;
+}
+kbd {
+    color: #0000FF;
+}
+sup {
+    color: #FF8000;
+}
+sub {
+    color: #990099;
+}
+span {
+    color: #006633;
+}

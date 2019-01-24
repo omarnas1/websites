@@ -1,0 +1,28 @@
+footer a, footer a:visited {
+    color: purple;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px dashed #000;
+}
+footer {
+    text-align: center;
+}
+body {
+    background-image: url("projectImages/mount_olympus.jpg");
+    background-size: cover;
+}
+title, h1 {
+    color: #00ff00;
+}
+a:visited {
+    color: #0066ff;
+}
+a:link {
+    color: red;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
