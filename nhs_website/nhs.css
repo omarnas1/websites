@@ -1,0 +1,40 @@
+img {
+  width: 100%;
+  height: auto;
+  top: 6px;
+  left: 4px;
+  position: absolute;
+  opacity: 0.15;
+  z-index: -1;
+}
+h1 {
+  background-color: #E0E0E0;
+  font-family: 'Tangerine', cursive;
+  text-align: center;
+  color: #000066;
+  font-size: 350%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-top: -2px;
+}
+h2 {
+  color: #000066;
+} 
+nav {
+  background-color: #000066;
+  text-align: center;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+nav > a {
+  color: white;
+  padding: 15px;
+}
+#star, small {
+  color: red;
+}
+footer {
+  padding-top: 10px;
+}
+
+

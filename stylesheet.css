@@ -1,0 +1,14 @@
+.w3-teal, .w3-hover-teal:hover {
+  color: #fff!important; 
+  background-color: #3e9600 !important;
+}
+.w3-sidebar {
+  background-color: #FFFF66 !important;
+}
+h1 {
+  color: darkgreen;
+}
+img {
+  z-index: -1;
+  opacity: 0.5;
+}
